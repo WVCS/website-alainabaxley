@@ -1,7 +1,22 @@
 body {
- background-color: #99BBD6
+  background-color: #99BBD6
+}
+nav {
+  list-style-type: none;
+   background-color: white;
+     width: 100%;
+     position: fixed;
+  top: 0;
+  left: 0;
 }
 
+li {
+  display: inline;
+    length: 50px;
+}
+li:hover {
+  background-color: #99BBD6
+}
 h2{
   color: #1A3475;
     text-align: center;
