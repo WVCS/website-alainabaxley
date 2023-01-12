@@ -2,9 +2,15 @@ body {
   background-color: #D8AC63
 }
 nav {
+  list-style-type: none;
 background-color: #A11607;
+  margin: 0;
+  padding: 0;
   top: 0;
   left:0;
+}
+li {
+  display: inline;
 }
 li:hover {
   background-color: #99BBD6
