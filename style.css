@@ -3,6 +3,8 @@ body {
   
 }
 nav {
+   width: 100vw;
+}
  ul{
   list-style-type: none;
 margin: 0;
@@ -10,8 +12,9 @@ margin: 0;
   padding: 0;
    display: flex;
    align-items: center;
+   flex-direction: row;
+   justify-content: space-around;
    background-color: #A11607;
-     width: 100vw;
      position: fixed;
   top: 0;
   left: 0;
