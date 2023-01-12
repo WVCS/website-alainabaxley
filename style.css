@@ -6,9 +6,10 @@ nav {
   position:fixed;
   color: #A11607;
   width: 100%;
-  length: 75%
-  top: 0;
+  length: 75%;
   left: 0;
+  background-color: #A11607;
+  top: 0;
 }
 li {
   display: inline;
