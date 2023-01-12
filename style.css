@@ -8,6 +8,7 @@ nav {
   position: fixed;
   top: 0;
   left: 0;
+    font-color: white;
 }
 li {
   display: inline;
@@ -16,8 +17,8 @@ li:hover {
   background-color: #99BBD6
 }
 li a {
-  font-size: 24px;
-  padding: 2em;
+  font-size: 36px;
+  padding: 5em;
   font-color: white;
   text-decoration: none;
 h2{
