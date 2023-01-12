@@ -13,10 +13,14 @@ nav {
   top: 0;
   left: 0;
 }
-
+    
 li {
   display: inline;
     length: 50px;
+  font-family: courier;
+    color: white;
+    font-size: 16px;
+    text-decoration: none;
 }
 li:hover {
   background-color: #99BBD6
