@@ -19,10 +19,10 @@ li:hover {
   background-color: #99BBD6
 }
 a {
-  font-size: 36px;
-  padding: 5em;
-  font-color: white;
   text-decoration: none;
+  font-size: 36px;
+  letter-spacing: 5px;
+  color: white;
 h2{
   color: #FAFFFA;
     text-align: center;
