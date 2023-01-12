@@ -5,18 +5,20 @@ nav {
   list-style-type: none; 
   background-color: #A11607;
   width: 100%;
+  length: 75%
   position: fixed;
   top: 0;
   left: 0;
-    font-color: white;
 }
 li {
   display: inline;
+  padding: 16px;
+  float: left;
 }
 li:hover {
   background-color: #99BBD6
 }
-li a {
+a {
   font-size: 36px;
   padding: 5em;
   font-color: white;
