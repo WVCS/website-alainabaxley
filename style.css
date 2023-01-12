@@ -5,7 +5,7 @@ nav {
   list-style-type: none;
   top: 0;
   left: 0;
-  width: 30px;  
+  width: 100%;  
    background-color: #A11607;
      position: fixed;
   color: white;
