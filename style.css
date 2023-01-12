@@ -2,14 +2,13 @@ body {
   background-color: #D8AC63
 }
 nav {
-   top: 0px;
-  left: 0px;
-  list-style-type: none;
+  list-style-type: none; 
+  background-color: #A11607;
   width: 100%;
-background-color: #A11607;
-  margin: 0;
-  padding: 0;
   position: fixed;
+  top: 0;
+  left: 0;
+  
 }
 li {
   display: inline;
