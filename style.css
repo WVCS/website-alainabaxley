@@ -1,15 +1,8 @@
 body {
   background-color: #D8AC63
 }
-li {
-  float: left;
-}
-
-a {
-  display: block;
-  padding: 8px;
-  background-color: #dddddd;
-}
+nav {
+background-color: A11607;
 }
 li:hover {
   background-color: #99BBD6
