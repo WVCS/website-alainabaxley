@@ -3,7 +3,9 @@ body {
 }
 nav {
   list-style-type: none;
-   background-color: white;
+  float: left;
+  text-align: center;
+  text-decoration: none;
   padding: 10px;
    background-color: #A11607;
      width: 100%;
