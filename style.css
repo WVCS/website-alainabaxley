@@ -2,7 +2,9 @@ body {
   background-color: #D8AC63
 }
 nav {
-background-color: A11607;
+background-color: #A11607;
+  top: 0;
+  left:0;
 }
 li:hover {
   background-color: #99BBD6
