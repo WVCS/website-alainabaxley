@@ -3,7 +3,7 @@ body {
 }
 nav {
   list-style-type: none; 
-  background-color: white;
+  color: #A11607;
   width: 100%;
   length: 75%
   position: fixed;
@@ -22,7 +22,7 @@ a {
   text-decoration: none;
   font-size: 36px;
   letter-spacing: 5px;
-  color: white;
+  color: black;
 h2{
   color: #FAFFFA;
     text-align: center;
