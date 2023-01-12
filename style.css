@@ -10,15 +10,13 @@ nav {
      width: 100%;
      position: fixed;
   top: 0;
+  left: 0;
 }
     
 li {
   display: flex;
-    length: 60px;
-  font-family: courier;
-    color: black;
-    font-size: 16px;
-    text-decoration: none;
+    length: 50px;
+
 }
 li:hover {
   background-color: #99BBD6
