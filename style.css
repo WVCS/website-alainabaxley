@@ -3,15 +3,13 @@ body {
 }
 nav {
   list-style-type: none;
-  top: 0;
-  left: 0;
-  width: 100%;  
+   background-color: white;
+  margin: 0;
+  padding: 0;
    background-color: #A11607;
+     width: 100%;
      position: fixed;
-  color: white;
-  text-align: left;
-  padding: 50px 52px;
-  font-size: 17px;
+  top: 0;
 }
     
 li {
