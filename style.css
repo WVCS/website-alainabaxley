@@ -9,6 +9,7 @@ nav {
 background-color: #A11607;
   margin: 0;
   padding: 0;
+  position: fixed;
 }
 li {
   display: inline;
