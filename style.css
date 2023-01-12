@@ -5,6 +5,8 @@ nav {
   list-style-type: none;
   margin: 0;
   padding: 0;
+  display: flex;
+    justify-content: space-between;
    background-color: #A11607;
      width: 100%;
      position: fixed;
