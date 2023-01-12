@@ -3,6 +3,7 @@ body {
 }
 nav {
   list-style-type: none;
+  width: 100%;
 background-color: #A11607;
   margin: 0;
   padding: 0;
