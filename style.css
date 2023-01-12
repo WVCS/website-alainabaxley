@@ -3,7 +3,9 @@ body {
 }
 nav {
   list-style-type: none;
-   background-color: white;
+  margin: 0;
+  padding: 0;
+   background-color: A11607;
      width: 100%;
      position: fixed;
   top: 0;
